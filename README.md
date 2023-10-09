@@ -1,5 +1,4 @@
-<!-- color: blue -->
-### Yee, it is me. Timmy
+### Yee, it is me. <span style="color: blue"> Timmy </span>
 
   call me what you want, but the power of da Timmy will prevail
 
