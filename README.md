@@ -16,6 +16,7 @@
 # NO, my repos are never public
 
   if you want access, contact me
+  merlin_foffi (Discord)
 
 
 # Current Projects
