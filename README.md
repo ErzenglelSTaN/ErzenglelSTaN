@@ -10,12 +10,12 @@
 
 # Anything special? NO
 
-  but i do code, and also currently build my own engine in C++.
-  C++ is king, my favourite language, but i use em all (except BrainFuck).
+  but i do code, and also currently build my own engine in C++. <br>
+  C++ is king, my favourite language, but i use em all (except BrainFuck). <br>
 
 # NO, my repos are never public
 
-  if you want access, contact me
+  if you want access, contact me <br>
   merlin_foffi (Discord)
 
 
