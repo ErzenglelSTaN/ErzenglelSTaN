@@ -20,6 +20,6 @@
 
 # Current Projects
 
-  PARZIVAL Game Engine - 3D Engine using DirectX9/10/11 in C++
-  Relay of Integrity - 3D RPG using PARZIVAL
-  V.E.R.I.T.Y. - A.I. modelled after the COVAS from Elite: Dangerous (ongoing since 2018 and written originally in C then in Python)
+  - PARZIVAL Game Engine - 3D Engine using DirectX9/10/11 in C++
+  - Relay of Integrity - 3D RPG using PARZIVAL
+  - V.E.R.I.T.Y. - A.I. modelled after the COVAS from Elite: Dangerous (ongoing since 2018 and written originally in C then in Python)
