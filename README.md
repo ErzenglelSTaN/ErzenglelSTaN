@@ -1,8 +1,8 @@
-### Yee, it is me. <span style="color: blue"> Timmy </span>
+### We called them.. S M A P L E
 
-  call me what you want, but the power of da Timmy will prevail
+  thou shalt smaple so the world may prevail
 
-ä What do i do
+# What do i do
 - usually sleep
 - normally code
 - regularly shower and eat
