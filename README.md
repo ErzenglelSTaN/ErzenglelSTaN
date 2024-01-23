@@ -14,7 +14,7 @@
   C++ is king, my favourite language, but i use em all (except BrainFuck). <br>
 
 # My repos are public, so don't hesitate about flaming me
-
+Flaming me at my :Discord: merlinfoffi is accepted
 # Current Projects
 
   - PARZIVAL Game Engine - 3D Engine using DirectX9/10/11 in C++
