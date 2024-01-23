@@ -13,11 +13,7 @@
   but i do code, and also currently build my own engine in C++. <br>
   C++ is king, my favourite language, but i use em all (except BrainFuck). <br>
 
-# NO, my repos are never public
-
-  if you want access, contact me <br>
-  merlin_foffi (Discord)
-
+# My repos are public, so don't hesitate about flaming me
 
 # Current Projects
 
